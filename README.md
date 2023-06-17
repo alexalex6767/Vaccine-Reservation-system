@@ -1,5 +1,5 @@
 # Vaccine-Reservation-system
-This is a project-like assignment from UW CSE414. I discovered it and completed it by myself. 
+This is a project-like assignment from UW CSE414. It is completed by Charlene Tang(https://github.com/CharleneTang1215) and I. 
 
 
 HW 6 | Appointment Reservation System 
